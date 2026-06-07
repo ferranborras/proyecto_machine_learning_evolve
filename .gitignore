@@ -3,6 +3,9 @@
 *.csv
 *.pkl
 
+# imágenes
+imgs/
+
 # Pickle models specifically (optional extra clarity)
 *.joblib
 
